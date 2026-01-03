@@ -12,7 +12,7 @@
   <p>Étudiant BTS SIO SLAM – Recherche de stage en développement</p>
   <nav>
     <a href="index.html">Accueil</a>
-    <a href="projects.html">Projets</a>
+    <a href="projects.md">Projets</a>
     <a href="cv.html">CV</a>
     <a href="contact.html">Contact</a>
   </nav>
@@ -24,7 +24,7 @@
     Je suis étudiant en BTS SIO option SLAM, passionné par le développement web
     et les applications logicielles.
   </p>
-  <a class="btn" href="projects.html">Voir mes projets</a>
+  <a class="btn" href="projects.md">Voir mes projets</a>
 </section>
 
 <footer>
