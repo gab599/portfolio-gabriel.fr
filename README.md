@@ -11,10 +11,10 @@
   <h1>Gabriel Suisse</h1>
   <p>Étudiant BTS SIO SLAM – Recherche de stage en développement</p>
   <nav>
-    <a href="index.html">Accueil</a>
+    <a href="README.md">Accueil</a>
     <a href="projects.md">Projets</a>
-    <a href="cv.html">CV</a>
-    <a href="contact.html">Contact</a>
+    <a href="cv.md">CV</a>
+    <a href="contact.md">Contact</a>
   </nav>
 </header>
 
