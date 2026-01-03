@@ -2,8 +2,8 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>Gabriel Suisse | Portfolio</title>
   <link rel="stylesheet" href="css/style.css">
+  <title>Gabriel Suisse | Portfolio</title>
 </head>
 <body>
 
