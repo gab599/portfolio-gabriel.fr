@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <link rel="stylesheet" href="css/style.css">
-  <title>Gabriel Suisse | Portfolio</title>
+
 </head>
 <body>
 
